@@ -468,6 +468,8 @@ html:has(.toggle__checkbox:checked) {
   --color-input-border: var(--color-white);
 }
 
+
+ 
 @media (max-width: 1000px) {
   html {
     font-size: 8px;
@@ -505,6 +507,8 @@ html:has(.toggle__checkbox:checked) {
   .contact__formContent {
     order: -1;
   }
+
+  
 }
 @media (max-width: 500px) {
   .bio__pic {
@@ -559,4 +563,6 @@ html:has(.toggle__checkbox:checked) {
     padding: 3rem 0;
     z-index: 1;
   }
+
+  
 }/*# sourceMappingURL=style.css.map */
