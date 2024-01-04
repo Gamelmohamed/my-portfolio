@@ -468,6 +468,11 @@ html:has(.toggle__checkbox:checked) {
   --color-input-border: var(--color-white);
 }
 
+.contact__social:has(.toggle__checkbox:checked){
+color: #fff;
+background-color: #ff0000;
+
+}
 
  
 @media (max-width: 1000px) {
